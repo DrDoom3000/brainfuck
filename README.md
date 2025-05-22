@@ -15,6 +15,6 @@ This is a terminal-based compiler for the esoteric language (esolang) brainfuck,
 
 "."     Print the current value as ASCII
 
-","     As for an ASCII Input
+","     Ask for an ASCII Input
 
 
